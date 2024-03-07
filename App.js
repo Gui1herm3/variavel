@@ -19,7 +19,7 @@ export default function App() {
   };
 
   return (
-    <ImageBackground source={{uri:'https://preview.redd.it/kanye-west-graduation-3840x2160-v0-kjektcn4myv91.png?auto=webp&s=09ab551caf64aa606dc8720953ad6abaca36c079'}} style={styles.imageBackground}>
+    <ImageBackground source={{uri:'https://static.vecteezy.com/ti/fotos-gratis/t2/26975383-jaguar-dentro-natureza-nacional-geografia-largo-vida-animais-ai-gerado-foto.jpg'}} style={styles.imageBackground}>
       <View style={styles.container}>
         <View style={styles.counterContainer}>
           <View style={styles.counter}>
